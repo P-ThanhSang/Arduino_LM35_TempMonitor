@@ -23,3 +23,10 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Personal / AI assistant
+kim_chi_nam*.md
+Tien_trinh*.md
+agents/
+skills/
+.gemini/
