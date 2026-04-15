@@ -89,4 +89,10 @@ Arduino_LM35_TempMonitor/
 
 ---
 
+## 🔗 Trang ca nhan
+
+[Pham Thanh Sang](https://P-ThanhSang.github.io) - Sinh vien PTIT
+
+---
+
 *Dự án được phát triển trong khuôn khổ môn học Mạng Cảm Biến.*
